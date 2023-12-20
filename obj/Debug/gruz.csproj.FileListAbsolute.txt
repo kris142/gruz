@@ -1,0 +1,24 @@
+C:\gruz\bin\Debug\gruz.exe.config
+C:\gruz\bin\Debug\gruz.exe
+C:\gruz\bin\Debug\gruz.pdb
+C:\gruz\obj\Debug\gruz.csproj.AssemblyReference.cache
+C:\gruz\obj\Debug\gruz.Properties.Resources.resources
+C:\gruz\obj\Debug\gruz.csproj.GenerateResource.cache
+C:\gruz\obj\Debug\gruz.csproj.CoreCompileInputs.cache
+C:\gruz\obj\Debug\gruz.exe
+C:\gruz\obj\Debug\gruz.pdb
+C:\gruz\obj\Debug\gruz.LoginForm.resources
+C:\gruz\obj\Debug\gruz.RegistrationForm.resources
+C:\gruz\obj\Debug\gruz.Main.resources
+C:\Users\krist\OneDrive\Рабочий стол\gruz\bin\Debug\gruz.exe.config
+C:\Users\krist\OneDrive\Рабочий стол\gruz\bin\Debug\gruz.exe
+C:\Users\krist\OneDrive\Рабочий стол\gruz\bin\Debug\gruz.pdb
+C:\Users\krist\OneDrive\Рабочий стол\gruz\obj\Debug\gruz.csproj.AssemblyReference.cache
+C:\Users\krist\OneDrive\Рабочий стол\gruz\obj\Debug\gruz.Main.resources
+C:\Users\krist\OneDrive\Рабочий стол\gruz\obj\Debug\gruz.LoginForm.resources
+C:\Users\krist\OneDrive\Рабочий стол\gruz\obj\Debug\gruz.Properties.Resources.resources
+C:\Users\krist\OneDrive\Рабочий стол\gruz\obj\Debug\gruz.RegistrationForm.resources
+C:\Users\krist\OneDrive\Рабочий стол\gruz\obj\Debug\gruz.csproj.GenerateResource.cache
+C:\Users\krist\OneDrive\Рабочий стол\gruz\obj\Debug\gruz.csproj.CoreCompileInputs.cache
+C:\Users\krist\OneDrive\Рабочий стол\gruz\obj\Debug\gruz.exe
+C:\Users\krist\OneDrive\Рабочий стол\gruz\obj\Debug\gruz.pdb
